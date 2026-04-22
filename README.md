@@ -6,7 +6,7 @@ Campus and WAN design in Cisco Packet Tracer
 
 </div>
 
-![Topology](images/Network Design.png)
+![Topology](images/NetworkDesign.png)
 
 ---
 

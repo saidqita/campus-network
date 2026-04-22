@@ -2,7 +2,7 @@
 
 A fictional rebuild of JU's campus network in Packet Tracer. Three faculties, 26 switches, six weeks of work. By the end it routes, fails over, hands out addresses on its own, and doesn't let you plug random gear into a wall port.
 
-![Topology](./images/topology.png)
+![Topology](images/Topology1.png)
 
 The work broke down into a handful of design problems, roughly in the order you'd hit them building this out for real.
 

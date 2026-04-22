@@ -2,7 +2,7 @@
 
 Where Project 1 stopped at the core, this one starts. Two ISR 4331s above the core, two links up to an ISP, and a whole different set of questions: who do you peer with, what do you advertise, and who gets to reach what.
 
-![Topology](./images/topology.png)
+![Topology](project-2-wan-operator/images/Topology2.png)
 
 ### Getting out to the internet at all
 Two ISRs deployed as a dual-homed edge, 1000BASE-LX fiber to the ISP. Static defaults outbound, NAT overload on both edges so the six user VLANs share the public addresses. `default-information originate` on IE1 pushes that default into OSPF, giving the rest of the network somewhere to send its internet-bound traffic.
